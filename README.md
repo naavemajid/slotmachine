@@ -1,1 +1,1 @@
-## JavacSript-Slot-Machine
+# JavacSript-Slot-Machine
